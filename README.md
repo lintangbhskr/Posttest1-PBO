@@ -23,11 +23,12 @@
 
 > 3. Menu `Hapus Kendaraan` : Menu yang dapat menghapus kendaraan yang terdaftar didalam program
 
-![image](https://github.com/user-attachments/assets/dff07981-e3f2-4183-b427-a73b7f490162)
+![image](https://github.com/user-attachments/assets/5773b65e-b273-4588-9009-3075bea9ff48)
 
 > 4. Menu `Update Kendaraan` : Menu yang dapat memperbarui data kendaraan yang sudah ada
 
-![image](https://github.com/user-attachments/assets/5298e50a-1d8b-47e5-b1b9-fd6975dc9a6e)
+![image](https://github.com/user-attachments/assets/8a9c2bf4-fa76-4dd4-8ebd-1da9ee472d6a)
+
 
 >5. Menu `Keluar` : Hasil output setelah keluar dari program
 
